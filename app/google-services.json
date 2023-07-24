@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089823389291",
+    "project_id": "login-tienda-2023",
+    "storage_bucket": "login-tienda-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089823389291:android:337f8959d9eb5cf38fe32e",
+        "android_client_info": {
+          "package_name": "com.example.tienda_sena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089823389291-tnc4ni1gmd3mnu6ohi0f6vu2ho04reld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiXykvK2tyk0T0MYPhUvO52VuhpijHfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089823389291-tnc4ni1gmd3mnu6ohi0f6vu2ho04reld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

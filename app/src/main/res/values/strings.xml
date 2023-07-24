@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tienda_Sena</string>
+    <string name="Incio">Populares</string>
+    <string name="cebolla">Cebolla</string>
+    <string name="manzana">Manzana</string>
+    <string name="lechuga">Lechuga</string>
+    <string name="melo">Melon</string>
+    <string name="pollo">Pollo</string>
+    <string name="Todos">Todos</string>
+    <string name="carne">Carne</string>
+    <string name="botella">Botella</string>
+    <string name="jamon">Jamon</string>
+    <string name="show_less">show less</string>
+    <string name="show_more">show more</string>
+
+    //descripciones de los productos
+    <string name="cebolla_d">La cebolla es fuente de vitaminas y minerales, y es que gracias asu composición es rica en azúcar natural, vitaminas A, B6, C y E, así como minerales como el sodio,el potasio, el hierro, la fibra y el ácido fólico, entre otros.</string>
+    <string name="manzana_d">La manzana está compuesta por 85% de agua, y la mayor parte de sus azúcares deriva de la fructosa -aunque, en menor cantidad, tiene glucosa y sacarosa-. Además, aporta una escasa cantidad de vitamina C, también posee vitamina E -la cual es un antioxidante-, y dentro de los minerales se destaca el potasio.</string>
+    <string name="melon_d">El consumo de melón nos aporta agua, vitaminas A, B, C y E, ácido fólico, fibra, además de minerales como calcio, hierro y potasio; todos estos componentes favorecen a: Mantener hidratado nuestro el cuerpo en días calurosos al mismo tiempo que consumimos una botana dulce baja en calorías.</string>
+    <string name="botella_d">La leche contribuye a consumir la cantidad necesaria de nutrientes --como calcio, magnesio, selenio, riboflavina, vitamina B12 y ácido pantoténico--, que se requieren para una buena salud.</string>
+    <string name="lechuga_d">La lechuga es un alimento ideal para cuidar la salud cardiovascular, y es que tiene un alto contenido en magnesio y potasio. Estos dos minerales ayudan a nuestro cuerpo a mantener en perfecto estado el ritmo cardíaco. Por esta razón, consumir a diario esta lechuga es algo tan beneficioso.</string>
+    <string name="queso_d">El queso es un alimento elaborado a partir de la leche cuajada de vaca, cabra, oveja u otros mamíferos. Sus diferentes estilos y sabores son el resultado del uso de distintas especies de bacterias y mohos, niveles de nata en la leche, curación, tratamientos</string>
+    <string name="arequipe_d">El dulce de leche, también conocido como manjar, manjar de leche,  arequipe, o cajeta,  es un producto lácteo,  producido por la cocción de leche con azúcar y que generalmente se utiliza como cobertura de postres o para untar o jaspear</string>
+    <string name="uvas_d">La uva es la común denominación que reciben los frutos formados en los racimos de la vid. Es usada mundialmente para su fermentación, ya que ésta da lugar al vino. Sembradas en viñas, crecen agrupadas en las parras de las vides entre seis y trescientas uvas por racimo.</string>
+    <string name="huevos_d">Consumir un huevo al día aporta proteínas de calidad para mantener nuestros tejidos, nos ayudan a evitar el sobrepeso y también mejoran nuestra salud cardiovascular</string>
+    <string name="pollo_d">La carne de pollo es fuente importante de nutrientes como proteínas, lípidos, Vitamina 3 y minerales como calcio, hierro, zinc, sodio, potasio y magnesio, entre otros. De fácil digestión. </string>
+    <string name="carne_d">Es una fuente de vitamina B12; esta vitamina nos ayuda a metabolizar proteínas, a formar glóbulos rojos y a darle mantenimiento al sistema nervioso central. Es rica en zinc, que ayuda a protegernos contra el daño oxidativo, a la cicatrización de la piel y para crear hemoglobina.</string>
+    <string name="pera_d">La pera es una fruta que posee vitaminas A, B, C y K, minerales como cobre, hierro, potasio y magnesio, además de ácidos saludables, su cáscara contiene fitonutrientes y vitaminas que protegen al cuerpo de los radicales libres dañinos</string>
+    <string name="remolacha_d">La remolacha contiene una gran concentración de antioxidantes responsables por combatir la inflamación en el organismo. Por eso es un arma secreta para aliviar y prevenir la artritis. Este vegetal también tiene un efecto alcalino en nuestro cuerpo y mejora la salud de nuestras articulaciones y tejidos.</string>
+    <string name="zanahoria_d">La pera es una fruta que posee vitaminas A, B, C y K, minerales como cobre, hierro, potasio y magnesio, además de ácidos saludables, su cáscara contiene fitonutrientes y vitaminas que protegen al cuerpo de los radicales libres dañinos</string>
+    <string name="tuli_d">Es un símbolo del amante perfecto, la pasión y el romanticismo. El tulipán es un símbolo de amor sincero. Es una flor increíblemente romántica que al regalarla expresas enamoramiento, pasión, amor incondicional, amor puro, etc.</string>
+    <string name="gira_d">El girasol es el símbolo del Sol y simboliza el amor y la admiración. Pero también la felicidad, la vitalidad, el positivismo y la energía. En la cultura china simboliza una larga vida y buena suerte.</string>
+    <string name="rosas_d">las rosas rojas pueden simbolizar admiración, belleza y el cariño que siente una amistad por otra.</string>
+    <string name="jamon_d">El jamón contiene mucha proteína, más o menos (dependerá del tipo) unos 30 gramos por cada 100 gramos de alimento. Pero sin duda destaca por su alto contenido de vitaminas B, principalmente la vitamina B1 o tiamina, la vitamina B3 o niacina, la vitamina B6 y en menor medida vitamina B12.  Otras vitaminas que contiene, aunque en menor cantidad, son las vitaminas B2, D y E.</string>
+    <string name="yogurt_d">El yogur es un derivado lácteo que se prepara a través de un proceso de fermentación de la leche, donde un cultivo de bacterias se encarga de fermentar la lactosa, que es el azúcar natural presente en la leche, y producir ácido láctico, originando la textura y el sabor característico a este alimento.</string>
+
+</resources>
