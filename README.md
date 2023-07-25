@@ -3,7 +3,7 @@ puedan interactuar, tambien cuenta con servicios de google en el utilice los de 
 o tambien puede ver mas detalladamente la ubicacion de cada producto, tambien cuenta con un splash dinamico en cual el usuario puede ver al iniciar la app, a continuacion de haber pasado
 por el splash se encontrara con un login el cual esta conectado con firebase en cual puedes crear tu usuario en caso de no tener una cuenta ya creada, este login cuenta con un video de
 fondo muy dinamico al crear el usuario se obtienes unos datos y se guardan en firebase storge, esta tienda tambien tiene notificaciones las cuales te llagan al iniciar sesion o al ver un producto
-de la tienda, para que se entienda un poco mejor les dejare un link para que ven bien la conexion con firebase https://youtu.be/NFot9_bSFhw
+de la tienda, para que se entienda un poco mejor les dejare un link para que puedan apreciar mejor la conexion con firebase https://youtu.be/NFot9_bSFhw
 
 El proyecto esta distribuido por varias carpetas, en las cuales se encuentran las "RES" las  digo las res porque para este proyecto cree varias res las cuales me guardan contenido
 para cada categoria de productos estas carpetas se crean apartir de una pequeña linea de codigo que se encuentra en el build.gradle de la app
